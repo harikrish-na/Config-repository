@@ -1,4 +1,4 @@
 spr-mvc-hib
 ===========
 
-Spring MVC + Hibernate + Maven tutorial with all CRUD operations
+Spring MVC + Hibernate + Maven tutorial with all CRUD operations, Hari
